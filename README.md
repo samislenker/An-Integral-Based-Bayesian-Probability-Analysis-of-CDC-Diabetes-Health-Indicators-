@@ -21,4 +21,4 @@ Data Source:
 CDC Diabetes Health Indicators Dataset, available through the UCI Machine Learning Repository.
 
 Running the Project:
-Download the Python file and any required datasets. Install the libraries imported by the script, then run the program using Python.
+Download the Python file and any required datasets. Install the libraries imported by the script, install pandas, then run the program using Python.
